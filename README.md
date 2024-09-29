@@ -1,2 +1,2 @@
-# Creating a Amazon clone website 
+# Cloning Amazon website 
 using HTML and CSS
